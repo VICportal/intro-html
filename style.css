@@ -54,7 +54,7 @@ ul {
     grid-row-start: 2;
     grid-column-start: 2;
     width: 300px;
-    font-size: 14pt;
+    font-size: 07pt;
 } 
 
 ul:before {
@@ -62,11 +62,11 @@ ul:before {
     font-family: 'Abel', cursive;
     color: rgb(162, 240, 73);
     background-color: rgba(245, 233, 149, 0.5);
-    font-size: 18pt;
+    font-size: 09pt;
 }
 
 li {
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 a {
@@ -84,7 +84,7 @@ a {
     left: 0;
     position: absolute;
     top: 0;
-    width: 400%;
+    width: 200%;
     will-change: transform;
     z-index: -1;
   }
