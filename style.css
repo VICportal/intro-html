@@ -55,7 +55,7 @@ ul {
     grid-row-start: 2;
     grid-column-start: 2;
     width: 2200px;
-    font-size: 13pt;
+    font-size: 14pt;
 } 
 
 ul:before {
@@ -67,7 +67,7 @@ ul:before {
 }
 
 li {
-    padding-top: 4px;
+    padding-top: 3px;
 }
 
 a {
