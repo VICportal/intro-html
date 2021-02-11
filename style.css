@@ -53,8 +53,8 @@ ul {
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
-    width: 1700px;
-    font-size: 14pt;
+    width: 1900px;
+    font-size: 12.5pt;
 } 
 
 ul:before {
