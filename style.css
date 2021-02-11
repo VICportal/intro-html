@@ -50,6 +50,7 @@ img {
 }
 
 ul {
+    text-shadow: 2px 2px 8px #FF0000;
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
