@@ -7,7 +7,7 @@ body {
     padding: 5px;
     font-family: 'Open Sans', sans-serif;
     color: #000;
-    display: grid;
+    display: run-in;
     align-items: center;
     grid-template-columns: 700px auto;
     background-repeat: no-repeat;
@@ -50,7 +50,7 @@ img {
 }
 
 ul {
-    text-shadow: 2px 2px 8px #FF0000;
+    text-shadow: 2px 2px 7px #708090;
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
