@@ -50,11 +50,11 @@ img {
 }
 
 ul {
-    text-shadow: 2px 2px 7px #708090;
+    text-shadow: 2px 2px 7px #2F4F4F;
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
-    width: 2200px;
+    width: 1200px;
     font-size: 14pt;
 } 
 
