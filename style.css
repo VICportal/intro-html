@@ -11,6 +11,8 @@ body {
     align-items: center;
     grid-template-columns: auto auto;
     background-repeat: no-repeat;
+    background-clip: content-box
+    
 }
 
 body:after {
