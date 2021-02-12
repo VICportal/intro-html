@@ -86,7 +86,7 @@ a {
     left: 0;
     position: absolute;
     top: 0;
-    width: 200%;
+    width: 100%;
     will-change: transform;
     z-index: -1;
   }
