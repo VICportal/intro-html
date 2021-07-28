@@ -9,7 +9,7 @@ body {
     color: #574;
     display: grid;
     align-items: center;
-    grid-template-columns: 400px 250px;
+    grid-template-columns: 500px 250px;
     background-repeat: no-repeat;
     
 }
