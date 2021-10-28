@@ -51,7 +51,7 @@ img {
 }
 
 ul {
-    text-shadow: 14px 14px 14px #000000;
+    text-shadow: 24px 24px 14px #000000;
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
