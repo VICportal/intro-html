@@ -56,7 +56,7 @@ ul {
     grid-row-start: 2;
     grid-column-start: 2;
     width: 1700px;
-    font-size: 26pt;
+    font-size: 23pt;
 } 
 
 ul:before {
@@ -64,7 +64,7 @@ ul:before {
     font-family: 'Abel', cursive;
     color: rgb(162, 240, 73);
     background-color: rgba(245, 233, 149, 0.5);
-    font-size: 20pt;
+    font-size: 16pt;
 }
 
 li {
