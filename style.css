@@ -30,7 +30,7 @@ h1 {
     grid-column-start: 1;
     grid-column-end: 3;
     color: rgb(104, 85, 57);
-    font-size: 46pt;
+    font-size: 44pt;
     font-family: 'Playfair Display', sans-serif;
   
     background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
@@ -56,7 +56,7 @@ ul {
     grid-row-start: 2;
     grid-column-start: 2;
     width: 1700px;
-    font-size: 26pt;
+    font-size: 24pt;
 } 
 
 ul:before {
@@ -64,7 +64,7 @@ ul:before {
     font-family: 'Abel', cursive;
     color: rgb(162, 240, 73);
     background-color: rgba(245, 233, 149, 0.5);
-    font-size: 11pt;
+    font-size: 12pt;
 }
 
 li {
